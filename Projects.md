@@ -9,3 +9,4 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Prudhvi Kommareddi [pymagicc](https://github.com/pkommareddi/CMSC6950_Project)
 - Brad McNiven [PyAutoLens](https://github.com/bm2570/CMSC6950_Project)
 - Ruixin Song [Capytaine](https://github.com/tsuzzy/CMSC6950_Project)
+- Karina Barcelos [pymagicc](https://github.com/kdabarcelos/CMSC6950_Project)

@@ -14,3 +14,4 @@ Format: `- <Name> [<Project Topic>](https://github.com/<GitHubId>/CMSC6950_Proje
 - Michael King [argopy](https://github.com/mtk282/CMSC6950_Project)
 - Immanuel Okpara [argopy](https://github.com/kentokpara/CMSC6950_Project)
 - Karina Barcelos [tidynamics](https://github.com/kdabarcelos/CMSC6950_Project)
+- Behnam Farhadi [pymagicc](https://github.com/behnamfarhadi2010/CMSC6950_Project)  
